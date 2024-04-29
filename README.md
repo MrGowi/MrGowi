@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm José</h1>
 <h3 align="center">A passionate developer from Switzerland</h3>
 
-- 🌱 I’m currently learning **C# and ASP.NET**
+- 🌱 I’m currently learning **C#** and **ASP.NET**
 
 - 📫 How to reach me **josegonzalezwillems@gmail.com**
 
